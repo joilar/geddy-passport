@@ -27,12 +27,12 @@
 
   <p style="text-align: center;">
     <a class="btn-auth btn-twitter large"
-        href="{{ geddy.config.fullHostname }}{{ twitterPath }}%>">
+        href="{{ geddy.config.fullHostname }}{{ twitterPath }}">
       Log in with Twitter
     </a>
     &nbsp;
     <a class="btn-auth btn-facebook large"
-        href="{{ geddy.config.fullHostname }}{{ facebookPath }}%>">
+        href="{{ geddy.config.fullHostname }}{{ facebookPath }}">
       Log in with Facebook
     </a>
   </p>
